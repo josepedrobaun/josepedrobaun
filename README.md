@@ -1,7 +1,7 @@
 
 <h3> &nbsp;Olá! </h3>
 
-- 🤔 &nbsp; Me chamo José Pedro e tenho 24 anos.
+- 🤔 &nbsp; Me chamo José Pedro, tenho 24 anos e moro no Rio Grande do Sul.
 - 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** na <a href="https://www.unisinos.br/">Unisinos</a>.
 - 💼 &nbsp; Desempregado no momento, trabalho com Freela em sites utilizando CMS Wordpress.
 - 🌱 &nbsp; Participando da 10ª Edição do Programa Desenvolvedor Web Full Stack na <a href="https://growdev.com.br">Growdev</a>.
@@ -17,6 +17,7 @@
 
 **Soft Skill**
   Scrum
+  
 **DevOps**
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
