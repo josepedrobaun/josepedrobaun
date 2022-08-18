@@ -1,12 +1,17 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Olá, me chamo José Pedro, tenho 24 anos e moro no Rio Grande do Sul.
+  Estudo Análise e Desenvolvimento de Sistemas na <strong>Unisinos</strong>.
+  E participo da 10ª Edição do Programa Starter Full Stack Web Developer ministrado pela <strong>Growdev</strong>.
 </p>
 
 <p align="left">
-  💻 Linguagens: <strong>HTML, CSS, JavaScript.</strong>
+  💻 Hard Skills: <strong>HTML, CSS, JavaScript.</strong>
+</p>
+
+<p align="left">
+  ✍️ Soft Skills: <strong>Scrum, Kanban.</strong>
 </p>
 
 <p align="left">
