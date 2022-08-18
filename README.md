@@ -1,5 +1,5 @@
 
-<h3> :woman: &nbsp;Sobre mim </h3>
+<h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>.
