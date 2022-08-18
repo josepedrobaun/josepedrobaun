@@ -1,5 +1,5 @@
 
-<h3> :man: &nbsp;Sobre mim </h3>
+<h3> :hello: &nbsp;Olá! </h3>
 
 - 🤔 &nbsp; Me chamo José Pedro e tenho 24 anos.
 - 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** na <a href="https://www.unisinos.br/">Unisinos</a>.
