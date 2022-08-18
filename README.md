@@ -3,7 +3,7 @@
 <p align="left"> 
   Olá, me chamo José Pedro, tenho 24 anos e moro no Rio Grande do Sul.<br>
   Estudo Análise e Desenvolvimento de Sistemas na <strong>Unisinos</strong>.<br>
-  E participo da 10ª Edição do Programa Starter Full Stack Web Developer ministrado pela <strong>Growdev</strong>.
+  Sou participante da 10ª Edição do Programa Starter Full Stack Web Developer ministrado pela <strong>Growdev</strong>.
 </p>
 
 <p align="left">
