@@ -16,7 +16,8 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 **Soft Skill**
-  Scrum
+
+  ✍️ &nbsp; Scrum
   
 **DevOps**
 
