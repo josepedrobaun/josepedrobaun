@@ -4,7 +4,7 @@
 - 🤔 &nbsp; Me chamo José Pedro, tenho 24 anos e moro no Rio Grande do Sul.
 - 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** na <a href="https://www.unisinos.br/">Unisinos</a>.
 - 💼 &nbsp; Desempregado no momento, trabalho com Freela em sites utilizando CMS Wordpress.
-- 🌱 &nbsp; Participando da 10ª Edição do Programa Desenvolvedor Web Full Stack na <a href="https://growdev.com.br">Growdev</a>.
+- 💻 &nbsp; Participando da 10ª Edição do Programa Desenvolvedor Web Full Stack na <a href="https://growdev.com.br">Growdev</a>.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
