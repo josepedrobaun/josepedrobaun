@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  💻 Hard Skills: <strong>HTML, CSS, JavaScript.</strong>
+  💻 Hard Skills: <strong>HTML, CSS, JavaScript e CMS (Wordpres)</strong>
 </p>
 
 <p align="left">
